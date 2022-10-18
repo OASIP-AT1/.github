@@ -1,5 +1,5 @@
 ## Hi there 👋
-This organizations for integrated project 
+This organization for the integrated projects called "OASIP".
 <!--
 
 **Here are some ideas to get you started:**
